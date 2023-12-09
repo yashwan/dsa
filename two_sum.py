@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/two-sum/
+# easy
+
 def two_sum(nums, target):
     hm = {}
     for i in range(len(nums)):
